@@ -1,0 +1,3 @@
+C:/Users/ayber/CLionProjects/hw55/cmake-build-debug/CMakeFiles/hw55.dir
+C:/Users/ayber/CLionProjects/hw55/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayber/CLionProjects/hw55/cmake-build-debug/CMakeFiles/rebuild_cache.dir
